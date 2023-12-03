@@ -1,4 +1,4 @@
-### 🌦️ ClimaSphere 🌦️
+## 🌦️ ClimaSphere 🌦️
 Welcome to **ClimaSphere**, an engaging and user-friendly weather application that provides real-time weather information with a fun twist! 🌈
 
 ### Features
