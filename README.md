@@ -20,7 +20,7 @@ Getting started with **ClimaSphere** is easy! 🚀
 
 Head over to the [Releases](https://github.com/tylerlight071/ClimaSphere/releases) section on the GitHub repository.
 
-Download the latest installer for your operating system (Windows, MacOS, Linux).
+Download the latest installer.
 
 Run the installer and follow the on-screen instructions.
 
